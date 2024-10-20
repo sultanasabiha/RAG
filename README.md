@@ -29,8 +29,8 @@ The **RAG QA Bot** is a **Streamlit-based** application that allows users to upl
 Clone the application repository (or download the code):
 
 ```bash
-git clone <[repository-link](https://github.com/sultanasabiha/RAG)>
-cd <RAG>
+git clone https://github.com/sultanasabiha/RAG
+cd RAG
 ```
 
 ### **Step 2: Install Dependencies**
