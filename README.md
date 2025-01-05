@@ -56,7 +56,7 @@ Run the Streamlit app by executing the following command:
 streamlit run app.py
 ```
 
-### **Step 5: Expose Locally with LocalTunnel **
+### **Step 5: Expose Locally with LocalTunnel**
 If you want to share the app with others remotely, you can expose the local server using LocalTunnel. First, ensure LocalTunnel is installed globally:
 
 ```bash
